@@ -319,14 +319,3 @@ public function generatePagination($pages = '', $page_num = 1)
 
 ## Conclusion
 I hope that you can gain a lot of insight into building your own custom WordPress plugin from this post. I gave a brief overview on a lot of topics related to writing a plugin but hope with the sample code and sample plugin you can write your own with relative ease.
-
-## Resources
-I've compiled a couple resources that were extremely helpful for me when building my plugin.
-
-- Lots of help, borrowed code, and inspiration from: [https://github.com/rayman813/smashing-custom-fields/](https://github.com/rayman813/smashing-custom-fields/)
-- WordPress Developer Resources
-[https://developer.wordpress.org/](https://developer.wordpress.org/)
-- WordPress Plugin Boilerplate Generator [https://wppb.me/](https://wppb.me/)
-
-## Example Custom Plugin Code
-I have put all the example code from this article in a public GitHub repo. This is a full functioning custom WordPress Plugin. I welcome any comments or changes. [https://github.com/reside-eng/wordpress-custom-plugin](https://github.com/reside-eng/wordpress-custom-plugin)
